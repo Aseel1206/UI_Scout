@@ -1,0 +1,11 @@
+pymavlink
+Pillow
+requests
+pandas
+flask
+flask_cors
+flask_socketio
+opencv-python
+watchdog
+folium
+paramiko
